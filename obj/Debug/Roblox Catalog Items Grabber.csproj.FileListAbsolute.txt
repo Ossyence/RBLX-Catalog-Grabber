@@ -1,0 +1,31 @@
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\bin\Debug\Roblox Catalog Items Grabber.exe.config
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\bin\Debug\Roblox Catalog Items Grabber.exe
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\bin\Debug\Roblox Catalog Items Grabber.pdb
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\obj\Debug\Roblox Catalog Items Grabber.csproj.AssemblyReference.cache
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\obj\Debug\Roblox_Catalog_Items_Grabber.Form1.resources
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\obj\Debug\Roblox_Catalog_Items_Grabber.Properties.Resources.resources
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\obj\Debug\Roblox Catalog Items Grabber.csproj.GenerateResource.cache
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\obj\Debug\Roblox Catalog Items Grabber.csproj.CoreCompileInputs.cache
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\obj\Debug\Roblox Catalog Items Grabber.exe
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\obj\Debug\Roblox Catalog Items Grabber.pdb
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\obj\Debug\Roblox Catalog Items Grabber.csproj.CopyComplete
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\bin\Debug\System.Buffers.dll
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\bin\Debug\System.Memory.dll
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\bin\Debug\System.Text.Json.dll
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\bin\Debug\System.ValueTuple.dll
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\bin\Debug\System.Buffers.xml
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\bin\Debug\System.Memory.xml
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\bin\Debug\System.Text.Json.xml
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Nic\source\repos\Roblox Catalog Items Grabber\Roblox Catalog Items Grabber\bin\Debug\System.ValueTuple.xml
